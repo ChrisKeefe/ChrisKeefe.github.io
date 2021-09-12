@@ -60,8 +60,9 @@ author:
   name   : "Chris Keefe"
   avatar : "/assets/images/chris-keefe-sq-300x300.jpg"
   bio    : |
-          \"Let us, then, be up and doing, with a heart for any fate\"
-          -H.W.Longfellow
+          [_Let us, then, be up and doing,  
+          With a heart for any fate_](https://www.poetryfoundation.org/poems/44644/a-psalm-of-life)  
+          \- H. W. Longfellow
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
