@@ -1,8 +1,16 @@
 ---
 permalink: /about/
-title: "About"
+title: "Hi! I'm Chris"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm an [award-winning](/portfolio/#awardsscholarships) Masters Student in Computer Science.
+I develop [research software for Microbiome Science](https://qiime2.org/)
+with the [Caporaso Lab](https://caporasolab.us/),
+and am *excited about building software that makes the world a better place*.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<!-- If you think your company fits that bill, feel free to reach out to me on LinkedIn. I am open for work in the US or abroad -->
+
+I believe in well-made things, hard work, good food, and human connection.
+When I'm not geeking out on open technology, you'll find me
+[reading a book](https://www.goodreads.com/user/show/765208-chris-keefe)
+or lost in the woods somewhere.
