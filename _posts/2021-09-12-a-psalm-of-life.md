@@ -9,14 +9,15 @@ tags:
 ---
 
 If memory serves, I first found these lines in William Kennedy's _Albany Trilogy_.
-I have loved them since. Their call to action has carried me into many adventures.
-The poem's closing lines offer the patience and persistence that has led me safely home again.
+I have loved them since. Their call to action has carried me into many adventures,
+and the poem's closing lines encourage the patience and persistence to come safely home again.
 
 > Let us, then, be up and doing,  
 > With a heart for any fate
 
 The poet frames these words explicitly as the voice of youth.
-I wish for anyone who reads them, of any age, the bravery to keep learning new things.
+I wish for anyone who reads them, of any age,
+the bravery and persistence to keep learning new things.
 
 -----------------
 
