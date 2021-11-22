@@ -6,6 +6,7 @@ tags:
   - minimal-mistakes
   - tricks-or-tweaks
   - liquid-tags
+image-dir: assets/images/2021-11-21-post
 ---
 
 While trying to bash the home page of this site into something vaguely respectable,
@@ -30,7 +31,7 @@ and in the body:
 
 Voila!
 
-![you should probably make two different feature rows](/assets/images/two_feature_rows.png)
+![you should probably make two different feature rows]({{page.image_path}}/two_feature_rows.png)
 
 To do the latter, you can use the excerpt, ignoring any of the other fields,
 and `type` to adjust justification.
@@ -51,9 +52,9 @@ and in the body:
 {% endraw %}
 It comes out looking like this:
 
-![there's probably a better way to do this, too!](/assets/images/text_in_place_of_feature_row.png)
+![there's probably a better way to do this, too!]({{page.image_path}}/text_in_place_of_feature_row.png)
 
 One final note - because liquid tags are expanded before the markdown is parsed,
 it's necessary to wrap liquid code blocks in raw tags:
 
-![there's probably a better way to do this, too!](/assets/images/raw_endraw_tags.png)
+![there's probably a better way to do this, too!]({{page.image_path}}/raw_endraw_tags.png)
