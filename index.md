@@ -8,7 +8,7 @@ excerpt: |
   | Chris Keefe, Software developer
   | Plays well with others, some difficulty sitting still
 feature_images:
-  - image_path: /assets/images/festive-front-porch-1024x678-colorwork.jpg
+  - image_path: /assets/images/festive-front-porch-1024x678.jpg
     alt: "about"
     title: "About Me"
     excerpt: "A few more words about me, my work, and the things that light me up."
@@ -22,7 +22,7 @@ feature_images:
     url: "/portfolio"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/arthropod-architecture-1024x6ish.jpg
+  - image_path: /assets/images/arthropod-architecture-1024x678.jpg
     alt: "Posts by Category"
     title: "Posts by Category"
     excerpt: "Daffodils, green meadows, skies full of stars, and raindrops on roses"
@@ -45,5 +45,6 @@ I hope you find something you need here.
 
 {% include feature_row id="feature_images" %}
 
-> The things a crow puts in its nest, are always things it finds that shine best
-> - T. Waits
+> The things a crow puts in its nest,  
+> are always things it finds that shine best  
+> \- T. Waits
