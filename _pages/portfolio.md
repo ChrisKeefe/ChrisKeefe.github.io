@@ -17,11 +17,12 @@ title: "Portfolio"
 - [get-git](https://github.com/ChrisKeefe/getGitPresentation/)
 
 ## Awards/Scholarships
-- 2021 Graduate Student Government scholarship
+- 2021 Graduate Student Government Travel Award
+- 2021 Graduate Student Government Scholarship
 - 2020 [Urdea Collaborative Research Award](https://nau.edu/undergraduate-research/urdea-undergraduate-research-award/):  
   “Ileum microbiota composition and inflammatory response in triple transgenic mice modeling Alzheimer’s disease”
 - 2019 [Goldwater Scholar](https://goldwaterscholarship.gov/2019-scholars-by-state-of-legal-residence/)
-- 2019 Certificate of Special Congressional Recognition
+- 2019 Certificate of Special Congressional Recognition, US Senator Martha McSally
 - 2019 [VMWare Fellow Martin Casado Computer Science Scholarship](https://nau.edu/school-of-informatics-computing-and-cyber-systems/vmware-fellow-martin-casado-computer-science-scholarship/)
 - 2019 Pheatt Family Research and Development Award
 - 2019 [Hooper Undergraduate Research Award](https://nau.edu/Undergraduate-Research/Hooper-Undergraduate-Research-Award/):  
@@ -30,6 +31,7 @@ title: "Portfolio"
 
 ## Publications/Presentations
 
+- [Scientific Reproducibility and Research Automation with QIIME 2 Provenance Replay](https://docs.google.com/presentation/d/17P2LficW_d_ZX1bkVAWrQvOoza2QaU9rfIaWWRjK4yM/edit?usp=sharing). Oral presentation at International Society for Computational Biology (ISCB) Rocky Conference, Aspen, CO. (2021)
 - [Experiences and lessons learned from two virtual, hands-on microbiome bioinformatics workshops](doi: 10.1371/journal.pcbi.1009056)  
   _PLOS Computational Biology_ (2021) (Co-author)
 - [Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2](https://doi.org/10.1038/s41587-019-0209-9)  
