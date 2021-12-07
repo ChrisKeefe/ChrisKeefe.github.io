@@ -6,7 +6,6 @@ tags:
   - minimal-mistakes
   - tricks-or-tweaks
   - liquid-tags
-image-dir: "/assets/images/2021-11-21-post"
 ---
 
 While trying to bash the home page of this site into something vaguely respectable,
