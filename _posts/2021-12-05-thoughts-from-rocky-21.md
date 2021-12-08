@@ -1,7 +1,8 @@
 ---
 title: "Interesting ideas from the 2021 ISCB Rocky Conference"
 categories:
-  - musings
+  - science
+  - dev
 tags:
   - research/science
   - conferences

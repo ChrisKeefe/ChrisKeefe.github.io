@@ -1,13 +1,15 @@
 ---
 title: "Diane Korngiebel's AI ethics framework is Agile"
 categories:
-  - musings
+  - science
+  - dev
 tags:
   - research/science
   - conferences
-  - artificial intelligence
+  - AI/ML
   - ethics
-  - software engineering
+  - software
+  - engineering
 ---
 
 The opening keynote at the 2021 ISCB Rocky conference was by Dr. Diane Korngiebel,
