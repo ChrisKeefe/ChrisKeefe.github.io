@@ -5,3 +5,5 @@ main:
     url: /portfolio/
   - title: "Shiny things"
     url: /posts/
+  - title: "Travel"
+    url: /travel/
