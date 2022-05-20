@@ -11,6 +11,10 @@ It took a bit of hustle,
 but we got all of our things into boxes and all the way to scandinavia!
 Here's the final packing list for posterity.
 
+So much fun gear!
+
+![so much fun gear!]({{ site.image-dir }}/{{ page.slug }}/gear-with-supervisor.jpg)
+
 ## Food
 
 We'll shop on here, but we made a few provisions in advance.
@@ -67,6 +71,9 @@ We'll shop on here, but we made a few provisions in advance.
 - 3/4 length REI self-inflating sleeping pad
 - 3/4 length Exped DownMat
 - 1/2 of an old blue foamie sleeping pad for backup, cooking, sit-pad use
+
+![Bike boxes at the airport]({{ site.image-dir }}/{{ page.slug }}/bike-boxes.jpg)
+Bike boxes at the airport
 
 ## Electronics
 - Pixel 5a on Google Fi (which service has already been invaluable)
@@ -151,6 +158,9 @@ We'll shop on here, but we made a few provisions in advance.
 - 8x bandanas, give or take (including those listed in `Water`)
 - Heidi's homemade hand stuff (beeswax/honey/oil moisturizer)
 - 1x ear plugs
+
+![They should have brought the trailer...]({{ site.image-dir }}/{{ page.slug }}/boxes-in-shuttle.jpg)
+They should have brought the trailer...
 
 ## Navigation
 
