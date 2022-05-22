@@ -93,3 +93,5 @@ and for a moment I can't imagine why I would ever go anywhere else in the world.
 - First water-buddy: 1"-long transparent shrimp-guys in the harbor east of Bygdøy
 - First pastry: Kardemommebollar with rough-ground cardamom seeds on top
 - First museum: Norsk Folkemuseum - so much history! so many log cabins!
+
+![So many cabins!]({{ site.image-dir }}/{{ page.slug }}/cabin-entrance.jpg)
