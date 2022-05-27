@@ -48,4 +48,5 @@ Are there other cultural forces at work here? Is this just a weird Nord Norsk th
 - butter pasta
 - sheeps! our first really positive sign of agriculture up here
 - sled dog yards - because when it's not sunny 24 hours a day,
-  grocery shopping is more fun with friends 
+  grocery shopping is more fun with friends
+- the best rock for pooping on (if you're a bird)
