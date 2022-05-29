@@ -17,7 +17,7 @@ So much fun gear!
 
 ## Food
 
-We'll shop on here, but we made a few provisions in advance.
+We'll shop in Norway, but we made a few provisions in advance.
 - 2 lbs trail mix
 - 2 lbs homemade kind/granola bars
 - a pint bag of machaca and chipotle jerkies for the plane
@@ -168,6 +168,7 @@ They should have brought the trailer...
 - big paper map of scandinavia
 - phones
 - Lonely Planet and Moon guides
+- Edit: Picked up 5x folding paper maps of Norway at DNT Oslo, covering the major regions
 
 ## Entertainment/Sport
 
@@ -204,7 +205,7 @@ I'm covering my kit only for now, as Heidi's clothing list would break the inter
 - 1x ski socks (light but good coverage)
 - midweight hooded puff coat
 - light puff pants
-- Randi Jo Fab wool cycling hat with ear flappy liner guy
+- [Randi Jo Fab](https://www.randijofab.com/) wool cycling hat with ear flappy liner guy
 - ball cap
 - beanie
 - Sunglasses
@@ -218,6 +219,14 @@ I'm covering my kit only for now, as Heidi's clothing list would break the inter
 - 1x steel cable
 - 1x combo padlock
 - 6x Ortlieb back roller classic panniers
-- 2x alpkit toliari 12 panniers (which are not great)
+- 2x alpkit toliari 12 panniers (which are _not_ great)
+- 2x [rogue panda](https://www.roguepanda.com/) frame bags - custom design by H
+- 1 [Bedrock](https://www.bedrockbags.com/) tapeats stem bag
+- 2x D&D Oberlauda Ultralight Bike Mirror
+- 1x Ortlieb ultimate 6 Free handlebar bag
 - 7x nylon backpack straps
 - Various dry sacks for clothing/sleep kit
+- A motley assortment of Planet Bike fenders. Definitely fenders.
+- 2x ESGE double kickstands
+- 1x profile design aero bars (for wrist relief)
+- 1x quadlock phone mount

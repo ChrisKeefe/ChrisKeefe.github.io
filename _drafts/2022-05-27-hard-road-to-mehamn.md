@@ -49,6 +49,7 @@ We called up the magical mystery cafe we'd stopped in yesterday,
 reserved a hytte (cabin) for the night,
 and put most of what we had left in the tank into getting there before they
 stopped serving dinner.
+Failed attempts taste much sweeter with a good meal in you.
 
 ## New friends at the Ifjord camping
 
@@ -73,8 +74,17 @@ which helps her feel like she's giving back to the community.
 In turn, friends from the area help at the camping,
 building and remodeling things, cooking and serving, and taking care of customers.
 A couple of younger staff will be around this summer,
-but here in the quiet season it's often a friend
-or even a friend's mother behind the counter,
+but here in the quiet season they're very shorthanded,
+and it's often a friend or even a friend's mother behind the counter
 doing her best to help the helpless American cycle tourists.
 It's inspiring to see someone from the big city making life work in a (very, very)
 small town, for the people and the place and the quality of life they lead there.
+
+
+## Old friends
+- the fancy bathroom: even nicer the second time
+
+## New Friends
+
+- A fox! So red and so shaggy and way too quick for a photo.
+- A mysterious disappearing caribou? All dressed in brown, with lovely white stockings on.

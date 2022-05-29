@@ -1,5 +1,5 @@
 ---
-title: "Final Norway Packing Lists"
+title: "Unanswered mysteries of Norway"
 categories:
   - travel
 tags:
@@ -8,4 +8,4 @@ tags:
 ---
 
 <!-- TODO: Actually find this picture -->
-![weird red teardrop fruit]({{ site.image-dir }}/{{ page.slug }}/red-thingies.jpg)
+<!-- ![weird red teardrop fruit]({{ site.image-dir }}/{{ page.slug }}/red-thingies.jpg) -->
