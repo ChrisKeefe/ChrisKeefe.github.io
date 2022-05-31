@@ -1,0 +1,158 @@
+---
+title: "Lakselv Loafing"
+categories:
+  - travel
+tags:
+  - Norway
+  - cycle touring
+  - logistics
+  - rest day activities
+---
+
+<!-- TODO: photos -->
+
+Sometimes, on a trip like this, you just need a day or two to catch up.
+
+After the whirlwind of arrival, in-country travel, bicycle issues,
+and the extra slow getting-to-know-you phase of traveling in a new country
+with a new language, it was time for exactly that.
+We had run a bit low on food, nearly out of fuel, and long since out of fresh clothes
+by the time we got to Lakselv, and we were hungry.
+
+## Laundry's a thing
+
+We started by checking into perhaps the weirdest hotel I've stayed in.
+(The Verdde is a three-story establishment with a restaurant, and is often
+left unstaffed for hours at a time.) They don't do laundry there,
+and there's no laundromat in town, so everything went into the bathtub and we
+got creative with drying it all. The midnight sun, stiff breeze, and
+heated bathroom floor all helped tremendously. The crany radiator, not so much.
+The very good-natured cleaning lady had a good laugh
+when she came to empty the trash and found us in our spider's web.
+
+## Pizzaaahhhh and Finnebif
+
+Meal one after 300 miles of riding? "One large pizza, please!"
+The veggie pie at the Lakselv Restaurant is like nothing I've ever seen before,
+covered with onions, peppers, mushrooms, green olives, and pineapple (ananas, på norsk).
+It tasted great, and disappeared much more quickly than we expected.
+
+We had a chance to try finnbif here, too - it's a regional specialty stew,
+made with thin-shaved slices of reindeer, mushrooms, and often has brunost in the sauce.
+Served over potetmos, it's a wonderful thing.
+I asked for the recipe - if I'm lucky and the chef is willing to share,
+maybe I'll make it for you some time.
+
+## New rainy-coat
+
+On the day of our ill-fated attempt to ride to Mehamn,
+the wind pushed enough rain through my (very fancy) rain coat's front zip
+to soak my shirts through.
+When I tried to unzip it an hour later, it wouldn't play ball -
+after 6 or so years of light duty in the dessicated lands, the zipper's toast.
+
+So I got a new rain coat!
+Despite everyone's warnings about how expensive everything is in Norway,
+I landed a beautiful, soft, sturdy, 3-layer, pit-zips, sweet-hooded,
+all-the-pockets-having rain jacket for $120, tax included.
+Admittedly, it's child-size, but the grownup ones are only $30 more.
+
+Maybe the most impressive bit is how easy it is to buy a very nice coat for
+a kid here.
+It's been years since I worked in outdoor retail,
+but the gear in the children's section was always decidedly lower quality.
+This sucker wouldn't win a fight with my old Alpha SV,
+but it wouldn't go down in the first round either.
+
+## Things we did not buy
+
+"Fiber, fiber, everywhere, and not a bit of space."
+- M. T. (Headed) Coleridge
+
+Sorry. Nothing about that joke was worth making,
+but it sums up our problem quite nicely.
+You basically can't walk into a grocery store in Nord Norge without finding a wall of yarn.
+Heidi is positively basking in the possibilities.
+Perhaps because the demand is so much stronger, the deals are real.
+We looked off a whole bin of superwash merino at $4 a skein,
+because we're already packing too much yarn along.
+
+Similarly, any good-sized grocery here has a whole section
+of lightweight merino wool undies, shirts and long johns.
+The amount of stinky I would not be right now if I spent the day in wool
+instead of this plastic tee shirt would blow your mind.
+Add in the whole "plastic is amazing but terrible" thing,
+and set the price to half what you'd pay in the US, and it's a magical thing.
+Now we just have to find the right sizes!
+
+## Stabbursdalen Natural History Museum Thing
+
+With full bellies, dry clothing, and a fresh batch of groceries in the bear can,
+we rode north out of town, headed eventually to Alta.
+Our first stop was a mellow 10 miles from Lakselv, at Stabbursdalen NP.
+The visitor's center doubles as a small museum,
+and we spent a couple hours over lunch looking at the exhibits
+and bothering the helpful staff. There was a bit of nature, a bit of history,
+and a bit of local cluture.
+
+Porsanger Kommune, the "county" we're in right now,
+is something of a center for both Sami and Kven cultures.
+The larger Sami communities and seat of government are south of us,
+but our hotel flies Norwegian, Sami, and Kven flags at the same height.
+
+We learned that King Crabs, both common and economically important in the area,
+are an introduced species.
+They're also voracious, and at least somewhat ecologically destructive.
+Bummer - I hear they're delicious.
+
+The coolest thing about the museum, for better or worse,
+was actually the rich collection of free booklets on wildlife and foraging
+produced by the national mushroom society.
+Packed into racks in entrance hall,
+they answered many of the questions we've been coming up with
+as we poke through the bushes on the sides of the road.
+
+"Who's that bird?"
+"Are those funny-looking nettles?!?"
+"What mushrooms fruit here?"
+
+They also seem to have great introductory material for kiddos. Very, very cool.
+
+## Stabbursdalen National Park
+
+And finally there's the park.
+We live here now, at least for tonight, and it's lovely.
+Everything is exploding to green life here,
+with leaves on trees and grass on the ground.
+The pine forest (because we're really in it, now) is remarkable.
+The trunks are golden,
+the bark is smoother and softer than the ponderosa we're used to,
+and your hands are still clean of resin
+after you go up the tree inspecting birds' nests.
+
+The parking area is as usual pristine,
+and provides both grills and the coal to fire them.
+The area just outside the park is an internationally recognized bird sanctuary,
+and the interior hosts many different species as well.
+Just a kilometer or so down the trail, you meet the river.
+It's a productive atlantic salmon run, the season opens at midnight,
+and we're the only people staying at this hut on the water.
+
+The cabin is free (gratis), and mostly free (libre) too.
+It's always open, anyone can stay whenever they like, and 
+is treated something like common property of the people in the area.
+It's owned by Finnmark (the region in which it is located),
+is supplied with wood and propane for winter visitors,
+and is kept clean by the people who use it.
+There are seven posted rules,
+the most prominent of which is "Use this cabin with common sense".
+And people do, it seems.
+
+The river's in flood, the birds are all madly in love,
+and I'm deeply happy to be here on this trip.
+
+
+## New friends
+
+- a white-tailed eagle (if I remember that correctly)
+- so many other birds

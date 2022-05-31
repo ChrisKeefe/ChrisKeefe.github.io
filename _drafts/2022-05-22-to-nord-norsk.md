@@ -99,7 +99,7 @@ Tomorrow, we'll try to find a bike shop.
 
 ## New Friends
 - The desk clerk at the Scandic Kirkenes, who called us crazy Americans,
-  told us of the legend Lars Monson, and was super over-the-top helpful always.
+  told us of the legendary Lars Monson, and was super over-the-top helpful always.
   Thank you!
 - Nox sweet licorice - like starburst but grown up just a little.
 - Two kooky kids who spent their evening throwing soccer balls at buildings
