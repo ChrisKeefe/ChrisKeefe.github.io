@@ -1,5 +1,5 @@
 ---
-title: "Norway Second Impressions"
+title: "To Kirkenes and Nord Norge"
 categories:
   - travel
 tags:
