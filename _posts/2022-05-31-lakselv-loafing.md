@@ -10,8 +10,6 @@ tags:
   - hacking
 ---
 
-<!-- TODO: DONE - just check visually -->
-
 Sometimes, on a trip like this, you just need a day or two to catch up.
 
 It's been a whirlwind of arrival, in-country travel, bicycle issues,

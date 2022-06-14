@@ -8,8 +8,6 @@ tags:
   - travelers
 ---
 
-<!-- TODO: Visual check -->
-
 Stabbursnes Nasjonalpark protects the pine and birch forests around the river Stabburselva.
 The area where we camped and hikd is low country by the river.
 An east-west trail farther north crosses the high country directly to the next fjord west,
@@ -48,7 +46,7 @@ After our hike, we got back on the road.
 Porsangerfjorden is beautiful, low and rolling on the coast,
 with occasional homes and hytter dotting the water's edge.
 
-![The coast of Porsangerfjord with a few white houses in the distance]({{ site.image-dir }}/{{ page.slug }}/porsangefjord.jpg)
+![The coast of Porsangerfjord with a few white houses in the distance]({{ site.image-dir }}/{{ page.slug }}/porsangerfjord.jpg)
 
 Though salmon fishing is the major draw here now,
 dried cod (AKA stockfish, AKA tørrefisk) is one of the historical staples.
@@ -92,7 +90,7 @@ and then go on a vacation from his vacation with his wife. Maybe the Czech Repub
 
 ![Chris and Remigi and the Toblerone]({{ site.image-dir }}/{{ page.slug }}/remigi.jpg)
 
-The prize for sweetest surprise of the day goes to [Remigi](remigi.ch).
+The prize for sweetest surprise of the day goes to [Remigi](https://remigi.ch).
 When a man by a Eurovan started waving something at us from the roadside,
 I was sure we were going to have to help him fix his car or something.
 Images of trying to inflate his donut with my frame pump ran screaming through my mind,
