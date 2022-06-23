@@ -1,11 +1,260 @@
 ---
-title: "Under Sea and Under Stone"
+title: "To Tromso with Florian"
 categories:
   - travel
 tags:
   - Norway
+  - cycle touring
+  - tunnels
+  - environmental impacts
+  - road-friends
 ---
-![]({{ site.image-dir }}/{{ page.slug }}/huh.jpg)
-In this episode, we make it to the start of our bicycle adventure!
 
-##
+Wrecked after our race to Skervøy, we deserved to sleep in. We did!
+The morning was rainy, so we had a slow breakfast in the tent vestibule,
+chatted in with our hosts in Tromsø, and did some route-planning.
+We would stay in Sietske's home, though she would mostly be away,
+and her roommate Ira would be there to let us in.
+
+## Hot lunch
+
+First, though, it was time for hot lunch! We refilled the water filter,
+and H went off on a science tangent about the high D.O.C. (Dissolved Organic Carbon)
+content in the meltwater. 
+
+![water filter bag hanging from a birch tree, full of water with a pale brown tint]({{ site.image-dir }}/{{ page.slug }}/d-o-cees.jpg)
+
+I have to admit it was beyond my weary mind,
+so my takeaway was basically that the water looked like tea and tasted just fine.
+
+![H pouring the coconut milk into the curry pot, with utensils and equipment all around]({{ site.image-dir }}/{{ page.slug }}/hot-lunch.jpg)
+
+The Thai curry rice we made really hit the spot.
+Peas and peppers and coconut milk: real vegetables and fat that wasn't butter!
+We took our sweet time packing up,
+and didn't get down the hill to the bridge off of Skervøy until around 4PM.
+
+![H rides across the bridge off of Skervøy with snowy mountains in the background]({{ site.image-dir }}/{{ page.slug }}/skervoy-bridge.jpg)
+
+## Sea tunnels
+
+After Alta, I felt like a pro at tunnels -
+you just pop into a mountain, then pop out the other side sweating or shivering.
+Often, they're built on a grade, and somehow that grade usually takes us downhill fast.
+Sea tunnels, though? Whole new thing.
+
+![view across the water to Skervøy. houses on the far bank are visible but very small]({{ site.image-dir }}/{{ page.slug }}/skervoy-crossing.jpg)
+
+Maursund tunnelen crosses this stretch of water,
+dropping to almost 100 meters below sea level at a screaming pace,
+and climbing back to the surface at a similarly steep 8 or 9% grade.
+It's only 2.2 km long, but there's something about riding a bicycle up out of the sea that's unsettling.
+There are *huge* fans in the tunnel to help keep the air quality safe.
+They're louder than a semi-truck in a stone tube,
+and the draft that hits you while you're hurtling downhill
+looking over your shoulder for headlights
+is so strong it can throw you off course.
+I can't imagine many solo bike accident scenarios scarier
+than a 35 mph wreck at the bottom of a tunnel, so ride these with caution.
+
+![a large neon road sign saying "tunnel closed", with tape crossing out the times on the sign]({{ site.image-dir }}/{{ page.slug }}/tunnel-closed.jpg)
+
+After a moment of panic that we might have come this far
+only to find the tunnel to the mainland closed,
+a quick call to 175 taught us that the "tunnel closed" sign
+actually meant the tunnel was open.
+Our crafty bridge bypass was going to succeed!
+
+![H riding from the exit of Marsund tunnel with a look of exhausion on her face]({{ site.image-dir }}/{{ page.slug }}/exiting-maursund.jpg)
+
+I'll spare you further description of the tunnel ride -
+the look on H's face at the exit tells the story pretty clearly.
+
+## To Swampcamp Rotsund
+
+The rest of our ride was brief and lovely.
+We saw tons of flowers along this road - the first really brilliant blooms of the trip.
+Some old friends, like these lupins and the sword ferns we saw everywhere, were out in style.
+
+![a purple-blue lupin in flower, with whorls of leaves below]({{ site.image-dir }}/{{ page.slug }}/lupin.jpg)
+
+Some new friends were as well. I don't know what these are, but they're super cute!
+
+![clusters of pale yellow flowers with five petals, with each cluster growing from the head of a single stalk]({{ site.image-dir }}/{{ page.slug }}/yellow-flowers.jpg)
+
+We rode south then west towards Lyngenfjord and the "Lyngen Alps" -
+a range of high peaks on the fjord's far side.
+The foreground peaks were smaller, but a few looked delightfully ski-able,
+with long, low-angle snow fields (glaciers?) that went for days.
+The trick, I think, is how to get up there....
+
+![H riding past trees with a broad, skiable mountain view in the background]({{ site.image-dir }}/{{ page.slug }}/skiable.jpg)
+
+The views were motivating, but it was getting late.
+After checking out a very weird mushroom remnant we found in a drainage,
+we decided to call it quits and find a camp site.
+After a grand total of 25 miles on the bike, it was already 8PM!
+
+![H preparing food by the tent in our little dry patch in the marsh]({{ site.image-dir }}/{{ page.slug }}/swamp-camp-2.jpg)
+
+We took the left turn past the sheep farms toward Rotsund,
+following the loop road out to a spur of gravel that headed up the river valley.
+Most of the ground was marsh, but we found a nice grassy parking pullout and set up.
+There may or may not have been a derelict ski jump in the woods above us.
+Norway is weird sometimes.
+
+## Short days breed long days
+
+With our early stop the day before,
+we woke earlier than usual for the game of ferry hopscotch
+that would take us to Tromsø by 1900.
+
+1. Bike Rotsund to Olderdalen
+2. Ferry Olderdalen to Lyngseidet
+3. Bike Lyngseidet to Svensby
+4. Ferry Svensby to Breidvik
+5. Bike Breidvik to Tromsø
+6. Meet Ira after 7
+
+Somehow, we'd given ourselves a third 60-mile day within a week,
+and a timeline to boot.
+
+![fjord coast with trailer by the road, boat in the water, and high peaks in the background]({{ site.image-dir }}/{{ page.slug }}/lyngen-alps.jpg)
+
+We set out for the ferry terminal in good spirits.
+The "alps" were gorgeous and the weather was great.
+We had just enough time to make the boat, though, and H was struggling to keep pace.
+It had been a wild week of riding, with two of her longest rides ever back to back.
+Even with that and our wonky sleep schedule on Skervøy, though, something felt funny.
+It was race pace almost all the way, and we made the boat with only a couple of minutes to spare.
+
+We learned some important lessons on this leg:
+
+![H making a terrible face while working on her brakes]({{ site.image-dir }}/{{ page.slug }}/rotor-problem.jpg)
+It's a lot harder to ride fast when your brake rotor is rubbing.
+
+![H with a big smile eating a waffle]({{ site.image-dir }}/{{ page.slug }}/waffles.jpg)
+All proper ferries are free for cyclists and serve fresh waffles and coffee.
+
+![view from ferry of coastal peak, with bicycles on the boat deck below]({{ site.image-dir }}/{{ page.slug }}/boat-view.jpg)
+Norway is still pretty from a car ferry.
+
+![view from ferry of coastal peak, with bicycles on the boat deck below]({{ site.image-dir }}/{{ page.slug }}/metal-shark.jpg)
+Norwegian ferries are basically big metal sharks that eat cars
+
+## Bike buddies!
+
+We met our friend Florian again on the first boat.
+It was great to see him, and we had a good laugh about routefinding.
+He had had ridden first to the closed bridge from Alta,
+where he found a guy to take him across on a small boat!
+Unfortunately, he then had to hike his bike through 5k of snow to get it over some pass.
+
+![H, Florian and I riding out of Lyngseidet]({{ site.image-dir }}/{{ page.slug }}/bike-gang.jpg)
+
+His route to Tromsø was the same as ours, so we had lunch and rode together for the day.
+The ride from Lyngseidet to Svensby was sunny and glorious,
+with new signs of life on all sides of the road.
+
+![bright pink flowers]({{ site.image-dir }}/{{ page.slug }}/pink.jpg)
+These guys are soooo pink!
+
+![small white flowers with reddish-green leaves and a whorl of yellow stamens near the center]({{ site.image-dir }}/{{ page.slug }}/white-spirals.jpg)
+And these guys, though understated, are my favorite for the day.
+
+![a large, broken sea snail shell in the palm of my hand]({{ site.image-dir }}/{{ page.slug }}/sea-snail.jpg)
+The paucity of nearshore marine life is still still remarkable here,
+but a snail shell this big is a good omen that this might be changing as we head west.
+
+![bright dandelions on the roadside, with mountains, water, and florian on the road]({{ site.image-dir }}/{{ page.slug }}/dandelion.jpg)
+And of course, dandelions. Everywhere, suddenly, and lovely in the sunshine.
+
+![florian riding hard ahead of me, coat flapping in the wind and helmet strapped to the back of the bike]({{ site.image-dir }}/{{ page.slug }}/florian-bombin.jpg)
+
+Riding with Florian is fun.
+His bike is squeaky and makes occasional terrible noises,
+but he's easygoing and enthusiastic. It gets him where he's going, and he's going far.
+Little reminders to relax and let the trip take its own shape are good now and then.
+For these, and for his good company, I'm grateful to him.
+
+## Industry and impact
+
+I often try to minimize the visual impact of development in my photos,
+stepping closer to the roadside, or shooting from below or behind the telephone lines.
+There is infrastructure everywhere,
+but even despite this Norway is so beautiful that it's easy to overlook the impact
+humans have had on the landscape.
+
+![A gravel barge being filled in front of beautiful peaks]({{ site.image-dir }}/{{ page.slug }}/gravel.jpg)
+
+Norway's scenery can make even a gravel barge look aesthetically pleasing.
+Norway has the highest per-capita rate of cabin ownership in the world,
+dotting the coast with quaint little hytter, and lovely run-down fishing sheds.
+
+![a red shed with fjord and mountains behind - also, an industrial site in the distance]({{ site.image-dir }}/{{ page.slug }}/shed.jpg)
+This photo, which a roommate tells me is desktop wallpaper-worthy,
+is also accidentally a photo of a gravel quarry.
+
+Like all industrial nations, Norway has grown through resource extraction - fish, game, timber, oil.
+Despite its wildness, the place feels domesticated in ways that Alaska and Canada do not.
+There is clean paved road between every small coastal settlement,
+and the ferries run on time to the smallest communities.
+There is cell coverage nearly everywhere.
+The salmon are mostly farmed.
+There are few bears and few wolves,
+and the reindeer that dot every mountain in the north are not caribou because they are not wild.
+
+![the ferry to tromsøy]({{ site.image-dir }}/{{ page.slug }}/ferry-to-tromsoy.jpg)
+
+And if this sounds damning, it is and it isn't.
+The reindeer are owned and tagged,
+but their impact on the landscape is visibly lighter than that of the cows or sheep we see occasionally.
+Most of Norway's forests are working timber forests,
+but we've seen few if any clear cuts here in the North.
+The landscape is itself, in some important ways, domesticated,
+but the visible impact on it often seems lighter than an American counterpart might.
+
+## To Tromsø
+
+The ride across the peninsula and up to Tromsøy was a bit rugged,
+so photos are in short supply.
+The moment we stepped off the boat in Breidvik,
+we realized we'd sailed out of the good weather.
+Clouds had started building, grey,
+and the wind blew hard and cold enough that we hid in the lee of a public toilet 
+for shelter when we ate our lunch.
+
+![a bunch of goats in a field under a grey sky]({{ site.image-dir }}/{{ page.slug }}/goats-n-clouds.jpg)
+
+As we descended the pass to the west side of the peninsula,
+we rode through a bad squall.
+Hard rain and wind had me scrambling for my foul-weather gear.
+Once my waterproof (på norsk "vanntett") layers were on,
+I realized I couldn't fit anything inside the kitchen gloves I brought from home
+and my rain pants were pretty leaky.
+If we're going to get more rain like this, and in two months I'm sure we will,
+I'll need gloves and pants that work.
+
+The E8 highway to Tromsø is very busy, and not much fun to ride.
+Once the cycle way begins, though, there are lovely farms and neighborhoods
+all the way to town.
+We met a young Ukrainian refugee out walking her family's dog,
+and pedaled through light rain until we'd crossed the bridge onto Tromsøy.
+
+![a plate of delicious Eritrean food and a tired H eating with her hands]({{ site.image-dir }}/{{ page.slug }}/wedebs.jpg)
+
+We parted ways with Florian,
+and on a reccomendation from our Warm showers host
+we stopped for Eritrean/Ethiopean food at Wedeb's.
+Very mild, but possibly the best meal of its kind that I've had.
+Then up a massively steep hill to our home for the next few days.
+
+![the driveway of the home we stayed in, with a VW camper van parked in it]({{ site.image-dir }}/{{ page.slug }}/home-for-now.jpg)
+
+## New friends
+
+- RODENTIA! Finally! Maybe a lemming? Or maybe I just really want to see a lemming.
+- Lots of flowers
+- Super weird mushroom guy. Crazy fat-stalked stalked puffball? Gastroid bolete? Weird.
+
+![a weird brown mushroom]({{ site.image-dir }}/{{ page.slug }}/weird-mushroom.jpg)
