@@ -16,7 +16,7 @@ and discover some lovely coastal farming country and lefse.
 ## Leaving town
 
 Norwegians are hothouse flowers.
-Or so you might think if you saw contemporary architecture in Norway,
+Or so you might think, if you saw contemporary Norwegian architecture
 outside of its often very rugged context.
 
 ![Apartment buildings like heavily-windowed mustard layer-cakes from the 1980s]({{ site.image-dir }}/{{ page.slug }}/apartments.jpg)
@@ -45,7 +45,7 @@ to make sure it would work if Putin decided he wanted another front for his war.
 
 We had done the morning's short ride with things strapped all higgledy-piggledy to our bicycles,
 accommodating a box of stuff we planned to ship out as soon as we could find a post office.
-A minor miracle worked through Heidi's attentiveness,
+In a minor miracle worked through Heidi's attentiveness,
 even the poorly attached bear can made the trip without falling.
 Aurora was working at the Post Norge counter in the grocery store where we resupplied on gummy candy and brown cheese,
 and was just the most helpful ever.
@@ -59,15 +59,15 @@ H and I have gotten a lot of mileage out of trampoline jokes on this trip.
 ![a house in the country, with multiple outbuildings and a trampoline hidden in the background]({{ site.image-dir }}/{{ page.slug }}/trampoline-later.jpg)
 
 "Do you think people who live this far north buy their kids trampolines
-because they know they'll never have any friends within 50 kilometers?"
+because they know they'll never have friends within 50 kilometers?"
 
-"Do you think Norway has a social program supporting the
+"Does Norway have a social program supporting the
 underprivileged children who don't have trampolines yet?"
 
 "Free trampoline with purchase of two or more waterfalls"
 
 They're ubiquitous. We see nearly as many trampolines as we do Norwegian flags,
-and the pennant-style flags are still *everywhere* this soon after Norway's national day.
+and the pennant-style flags are *everywhere* after Norway's recent national day.
 
 ![a home on a rocky beach with a trampoline and norwegian flag]({{ site.image-dir }}/{{ page.slug }}/trampoline.jpg)
 
@@ -83,7 +83,8 @@ and the first rhododendron and cloudberry flowers appeared in the heather.
 ![simple white cloudberry flower]({{ site.image-dir }}/{{ page.slug }}/cloudberry-bloom.jpg)
 
 A british traveler we met at the grocery had argued that the only bad part of Norway was the weather,
-but the promised rain mostly held, and when it didn't my new neon-yellow rain pants were just amazing.
+but the promised rain mostly held.
+When it didn't, my new neon-yellow rain pants were just amazing.
 Armored in these things, I can take on the world.
 We had a quick lunch on a rock ledge by the road, and zipped through the 2.7km Rya-tunnel.
 ("The best tunnel in the world, if there is such a thing!" - H)
@@ -105,16 +106,16 @@ and the building.
 
 ## Toves tradisjonsmat
 
-And plunked down in the middle of this green and lovely country is a small cafe and farm.
+Plunked down in the middle of this green and lovely country is a small cafe and farm.
 Tove's Tradisjonsmat caught our attention for its name (traditional food),
 and was a perfect stop on our road.
-There pastries were very good, and though we didn't try them,
+Their pastries were very good, and though we didn't try them,
 they also serve and sell local seafood and meat.
 Tove's annual plant sale was running on the day we stopped by,
 so she was out in the garden and we were helped by Anna and Evelyn,
 a neighbor and the baker respectively.
 
-![eplekake, gulrotkake, and two types of lefse]({{ site.image-dir }}/{{ page.slug }}/toves-pastries.jpg)
+![eplekake, gulrotkake, mørlefse, and gammeldagslefse]({{ site.image-dir }}/{{ page.slug }}/toves-pastries.jpg)
 
 The baker, that is, of everything but the lefse.
 Lefse, a light pancakey pastry folded around a layer of butter and sugar and sometimes brunost,
@@ -169,6 +170,7 @@ Camp sites got pretty hard to find after that one, though,
 and everyone gets tired eventually.
 
 ![A ewe sleeps with her head on her lamb's haunches in a green field]({{ site.image-dir }}/{{ page.slug }}/sheep-sleep.jpg)
+<!-- This day had epic sheep. They slept adorably, leapt broad ditches, and some pretended to be pandas. -->
 
 <!-- TODO: LINK TO ALLEMANSRETTEN -->
 Though Norway's Allemansretten protects our ability to travel, forage, and sleep
@@ -200,22 +202,22 @@ as I imagine it is in many parts of the US.
 
 ![farmhouses on a peninsula sticking into the fjord, backed by snowy mountains]({{ site.image-dir }}/{{ page.slug }}/pass.jpg)
 
-These factors pushed us up and over one more pass than we'd hoped to ride,
-and at 20:00 we were still looking for a flat, dry spot for the night.
+These factors pushed us up and over one more pass than we had hoped to ride,
+and at 20:00 we were still looking for a flat, dry spot to camp for the night.
 At 21:00, we found a picnic table and made dinner,
 because sometimes that's all you've got.
 
 ![Chris eating dinner at a picnic table overlooking the fjord]({{ site.image-dir }}/{{ page.slug }}/dinner.jpg)
 
-At almost 22:00, while the rice was re-hydrating,
+At almost 22:00, while the rice was rehydrating,
 I went bushwhacking in search of a spot.
 My mind was tired, and I was a little desparate to find a place that would work.
 H doesn't do super well with late nights,
 and the search for a camp site had been going on for hours now.
-After charging around in the woods like a manica for a while, I got a bit lost.
+After charging around in the woods like a maniac for a while, I got a bit lost.
 Coast roads make for great navigational handrails, though,
-so I was back to the picnic table shortly,
-and I found us another lovely sleeping swamp.
+and I was back to the picnic table shortly
+with directions to another lovely sleeping swamp.
 It was a bit of a trek to get the bikes there,
 but the gravel ride out in the morning was great!
 
@@ -232,16 +234,15 @@ Ahhh, love.
 
 We biked past snowy mountains.
 
-<!-- TODO: Alt-text from here -->
-![]({{ site.image-dir }}/{{ page.slug }}/mountains.jpg)
+![many snowy mountains in the distance behind green pasture]({{ site.image-dir }}/{{ page.slug }}/mountains.jpg)
 
 We biked past coastal farm land.
 
-![]({{ site.image-dir }}/{{ page.slug }}/coast-farm.jpg)
+![a winding gravel road leads out to a farmhouse and building on the coast]({{ site.image-dir }}/{{ page.slug }}/coast-farm.jpg)
 
-We stopped at a museum that was closed and ate lunch there anyway.
+We stopped at a museum that was closed, and ate lunch there anyway.
 
-![]({{ site.image-dir }}/{{ page.slug }}/museum-boat.jpg)
+![a large wooden boat with a cabin and a motor under a museum shelter]({{ site.image-dir }}/{{ page.slug }}/museum-boat.jpg)
 
 We bought groceries in Storsteinnes,
 and talked to a man with schizophrenia outside the grocery.
@@ -254,11 +255,11 @@ Mental health, menstruation, abortion, toilets and their use -
 all on the table for frank discussion with near-strangers.
 It's refreshing how little shame there seems to be about being human here.
 
-![]({{ site.image-dir }}/{{ page.slug }}/ravioli.jpg)
+![a package of "sweet chili bbq" "ravioli" snacks to be eaten straight from the package]({{ site.image-dir }}/{{ page.slug }}/ravioli.jpg)
 
 We bought weird (and delicious) snack food.
 
-![]({{ site.image-dir }}/{{ page.slug }}/art.jpg)
+![a graphic of a moose silhouette with the moon behind it next to the words "I find this amoosing" hanging above a toilet]({{ site.image-dir }}/{{ page.slug }}/art.jpg)
 
 I spent an hour or two at the library,
 doing onboarding and relocation paperwork for the job I'll begin in the fall.
@@ -268,7 +269,7 @@ and funny art in the small space.
 It's an older building, they have a small budget,
 and sea monsters are way cooler than holey old wallpaper.
 
-![]({{ site.image-dir }}/{{ page.slug }}/art-2.jpg)
+![a painting of a giant octopus attacking a three-masted sailing ship under the moon with white figures on a turquose background]({{ site.image-dir }}/{{ page.slug }}/art-2.jpg)
 
 We rode on past a beautiful little lake with yet another rainbow hanging over it.
 (Norway gives you little rewards with almost all of its challenges.)
@@ -281,7 +282,7 @@ This one, though, is a public space, free for use by the community or passers-by
 A group of old friends had been grilling and spending the afternoon there,
 and though we didn't stop long to talk, they were lots of fun.
 
-![]({{ site.image-dir }}/{{ page.slug }}/habakkuk.jpg)
+![four older men and women waving from inside the habakkuk]({{ site.image-dir }}/{{ page.slug }}/habakkuk.jpg)
 
 ## On the road again
 
@@ -289,7 +290,7 @@ From the lake, we climbed up towards the E6 again.
 The road is busier here, by far, than it was out in eastern Finnmark.
 As with the E8 south of Tromsø, the cars move fast and the riding can be a bit gripping.
 
-![]({{ site.image-dir }}/{{ page.slug }}/sami-shop.jpg)
+![a view of the entrance to the sami shop tents with sami and norwegian flags flying and reindeer antlers above the door]({{ site.image-dir }}/{{ page.slug }}/sami-shop.jpg)
 
 Roadside souvenier shops seem to be a universal presence by the highways of the road,
 and this one was the best I've ever visited.
@@ -298,7 +299,7 @@ It smells lightly of smoke from the wood hearth near the entrance.
 There are tchochkes and graphic tees and walls of plastic junk,
 but there are *so* many beautiful things too.
 
-![]({{ site.image-dir }}/{{ page.slug }}/hearth.jpg)
+![a stack of birch firewood in front of an open hearth. a stovepipe rises above the fire]({{ site.image-dir }}/{{ page.slug }}/hearth.jpg)
 
 There are reindeer antlers and hides by the barrel-full.
 Handmade mugs and bowls and knives and drums,
@@ -308,8 +309,9 @@ There are sweaters, of course, because this is Norway,
 but also simpler-patterned felt ponchos that look so warm and cozy.
 Traditional headwear, art, and on and on.
 And hot coffee, for the fifty or so motorcycles parked out front.
+This is a rest stop, after all.
 
-![]({{ site.image-dir }}/{{ page.slug }}/thaw.jpg)
+![thawing ice on lake Takavatnet]({{ site.image-dir }}/{{ page.slug }}/thaw.jpg)
 
 We passed Takavatnet just a half-kilometer later.
 The lake was in the late stages of thaw,
@@ -317,22 +319,22 @@ and some of the remaining ice had melted into funny little spires or cubes.
 The shapes were too small to see from our vantage,
 but whenever the wind blew, they all clinked together like the small songs of faraway birds.
 
-![]({{ site.image-dir }}/{{ page.slug }}/birch-camp.jpg)
+![heidi unrolling the tent in a warmly backlit birch grove]({{ site.image-dir }}/{{ page.slug }}/birch-camp.jpg)
 
 We made camp a little farther along, in a thin birch grove fronting some pine woods.
 There were other conifers mixed in here - fir or spruce, I forget -
 an unusual bit of variety this early in the trip.
 
-![]({{ site.image-dir }}/{{ page.slug }}/creamy.jpg)
+![a huge blob of coconut cream on top of a steaming pot of food]({{ site.image-dir }}/{{ page.slug }}/creamy.jpg)
 
 We ate some kind of chickpeas and rice one-pot spice mix thing.
 These spice mixes are, universally, somewhat forgettable,
-When you need a little flaver for your 750 mls of carbs and protein, they do just fine.
+but when you need a little flavor for your 750 mls of carbs and protein they do just fine.
 More interesting is the fact that we've moved on from coconut milk.
-It's too big, and doesn't pack enough punch, so it's a carton of coconut cream
+It's too big, and doesn't pack enough punch, so it's a full carton of coconut cream
 in the pot when we can find it. Exercise is amazing.
 
-![]({{ site.image-dir }}/{{ page.slug }}/ferns.jpg)
+![a cluster of sword fern leaves (or similar) standing straight up, with two brown leaves sticking up on the sides]({{ site.image-dir }}/{{ page.slug }}/ferns.jpg)
 
 Spring is still blowing up all around us, and it's lovely.
 
@@ -342,28 +344,28 @@ We started the day with a swoopy little roll downhill,
 past some lovely homes and a military installation,
 to the road that leads into Øvre Dividal Nasjonalpark.
 
-![]({{ site.image-dir }}/{{ page.slug }}/overbygdhytta.jpg)
+![two old square-cut log cabins, one larger and one smaller, with sod rooves]({{ site.image-dir }}/{{ page.slug }}/overbygdhytta.jpg)
 
 We passed the very old Overbydghytta along the way,
-and then slid from paved road onto beautiful, smooth-tracked gravel road.
+and then slid from paved road onto beautiful, smooth-tracked gravel.
 
-![]({{ site.image-dir }}/{{ page.slug }}/gravel-1.jpg)
+![a smooth gravel road winding right through forested country]({{ site.image-dir }}/{{ page.slug }}/gravel-1.jpg)
 
 This track follows the river, up the valley toward the park.
 Near a steep hill, we passed this beautiful newly constructed hut,
 built in a very old and traditional style.
 It's roofed with turf, and very reminiscent of the buildings we saw at the history museum in Oslo.
 
-![]({{ site.image-dir }}/{{ page.slug }}/hytta.jpg)
+![a traditional cabin with a normal house-shaped second story sitting on top of a narrower first story]({{ site.image-dir }}/{{ page.slug }}/hytta.jpg)
 
 We stopped for lunch at a fishing spot developed for the handicapped,
 with a paved walk along the river front and easy access from the gravel road.
 It was neat to see that kind of care put into access.
 It was even cooler, though, to find an abandoned nest there.
 
-![]({{ site.image-dir }}/{{ page.slug }}/nest.jpg)
+![a very round bird's nest of light-colored grass sitting upside down on the ground]({{ site.image-dir }}/{{ page.slug }}/nest.jpg)
 
-Simple and unused, they are beautifully made from tall grass leaves.
+Simple and unused, they are beautifully made from long grass leaves.
 I suspect these are early stages of some bird's nesting process,
 but please correct me if I'm wrong.
 
@@ -373,4 +375,4 @@ but please correct me if I'm wrong.
 - lefse!
 - Varieties of tree/shrub we don't know, which are in full flower here near Øvre Dividal
 
-![]({{ site.image-dir }}/{{ page.slug }}/gravel-2.jpg)
+![an undulating gravel road running left to right below a blooming shrubby tree]({{ site.image-dir }}/{{ page.slug }}/gravel-2.jpg)
