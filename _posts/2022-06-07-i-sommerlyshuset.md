@@ -24,7 +24,7 @@ and then set us free to play at life for a while in a beautiful home in the nort
 
 Most of the time we spent in Tromsø, we spent catching up on clerical things.
 We shopped for groceries.
-I bought bigger rubber gloves, and some truly majestic rain pants.
+I bought bigger rubber gloves and some truly majestic rain pants.
 
 ![Chris flexing his muscles in neon yellow reflective rain pants, rain jacket, and blue rubber gloves]({{ site.image-dir }}/{{ page.slug }}/rain-pants.jpg)
 I am now invulnerable to the elements.
@@ -32,9 +32,9 @@ I am now invulnerable to the elements.
 We got a few things squared away with the bicycles.
 I checked in with my future employer, wrapped up some loose ends with the Cap Lab,
 and chipped away at the blog.
-Our friend with the City of Flagstaff's land trust program called.
-She's helping us through the clerical process of selling our house,
-so we had a super helpful call with her in the middle of a Norwegian shopping mall.
+Our friend at the City of Flagstaff's land trust program called.
+She's helping us through the process of selling our house,
+so we had a super awesome call with her in the middle of a Norwegian shopping mall.
 We took lovely and much-needed showers, and got all our laundry clean and dry.
 We even took a few minutes to map our travels to date.
 
@@ -50,24 +50,25 @@ The rest of our time was the best of our time.
 
 We went to the museum of polar exploration,
 which was fascinating and sometimes very challenging.
-Reading about man's ingenuity in the mechanization of seal harvest hurt,
-but the section on the Nansen expedition was amazing,
+Reading about man's ingenuity in the mechanization of seal harvest hurt.
+The section on the Nansen expedition was amazing, though,
 and seeing one of the original kayaks (from the 1890s voyage) was awesome.
-I could have spent days in their map room -
+I could have spent days in their map room;
 the collection of ancient and absurd maps of Norway on display was just too cool.
 
 ![a duck comes in to land near a small birch on the prestvannet]({{ site.image-dir }}/{{ page.slug }}/serene.jpg)
 
 We walked, and rode, and sat by the Prestvannet, the small lake in the center of Tromsøy.
-The lake itself is lovely and serene. The walking trails around it busy and social.
+The lake itself is lovely and serene.
+The walking trails around it are busy and social.
 After riding hard to reach Tromsø, we were a bit worn out,
 and may not have been able to appreciate it fully.
-We had long, lovely conversations with Ira, about books, music, Norway,
-hopes and dreams, travel, and the collapse of the Greek educational system.
-I hope we get to see her again someday.
 
 ![H yawning really big in front of the same view as above]({{ site.image-dir }}/{{ page.slug }}/sleepy.jpg)
 
+We had long, lovely conversations with Ira, about books, music, Norway,
+hopes and dreams, travel, and the collapse of the Greek educational system.
+I hope we get to see her again someday.
 Best of all, Ira and Jean from downstairs coordinated a little pot-luck dinner for all of us.
 H made a big pan of delicious fried rice, Ira whipped up a pot of Greek lentil soup,
 and Jean made pasta.
@@ -82,7 +83,10 @@ I just wish my Norwegian were good enough to understand what that was all about!
 
 We talked with Jean about kitchen design,
 then Mattias got the guitar down and we had a great sing-along.
-Lesson learned: put your windows over counter space, not above sinks or stoves.
+Lessons learned:
+
+1. Put your windows over counter space, not above sinks or stoves. It's better.
+2. Learn to play a few songs on a common instrument. Sharing music with people is great.
 
 ![Jean playing guitar and singing, H reading music, Ira and Anouk playing in background]({{ site.image-dir }}/{{ page.slug }}/singalong.jpg)
 
