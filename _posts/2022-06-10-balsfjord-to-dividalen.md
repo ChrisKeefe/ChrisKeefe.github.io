@@ -17,7 +17,7 @@ and discover some lovely coastal farming country and lefse.
 
 Norwegians are hothouse flowers.
 Or so you might think, if you saw contemporary Norwegian architecture
-outside of its often very rugged context.
+outside of its very harsh context.
 
 ![Apartment buildings like heavily-windowed mustard layer-cakes from the 1980s]({{ site.image-dir }}/{{ page.slug }}/apartments.jpg)
 
@@ -30,15 +30,16 @@ on their south faces. I probably would too, if I lived here.
 
 The frequency of rain and wind here can make it hard to motivate sometimes.
 We spent an extra day in Tromsø in part to wait out a bad forecast,
-"slept in" until 8, had a last lovely breafkast with Ira,
-talking shop about the collapse of the educational system in Greece,
-and pondering the fact that it's much easier to see the worst of your country from inside.
+"slept in" until 8, had a last lovely breafkast with Ira.
+We talked shop about the collapse of the educational system in Greece,
+and pondered the fact that it's much easier to see the worst of your country from inside.
 We showered (again!) and finally got on our bikes fearing the worst.
 
 ![a normal-looking gas station with eight pumps and a small store]({{ site.image-dir }}/{{ page.slug }}/gas-station.jpg)
 
 We biked over Tromsø's north bridge into some
-normal-crusty-american-town-looking suburb where they were testing the local alarm system
+normal-crusty-american-town-looking suburb.
+They were testing the local alarm system
 to make sure it would work if Putin decided he wanted another front for his war.
 
 ![a smiley postal clerk in a red uniform behind the counter at the post office]({{ site.image-dir }}/{{ page.slug }}/aurora.jpg)
@@ -47,10 +48,11 @@ We had done the morning's short ride with things strapped all higgledy-piggledy 
 accommodating a box of stuff we planned to ship out as soon as we could find a post office.
 In a minor miracle worked through Heidi's attentiveness,
 even the poorly attached bear can made the trip without falling.
-Aurora was working at the Post Norge counter in the grocery store where we resupplied on gummy candy and brown cheese,
-and was just the most helpful ever.
-I was nervous that navigating international shipping and customs would be horribly expensive and complex,
-but $50 and a few minutes later, a big box of our things was bound for the USA.
+Aurora was working at the Post Norge counter in the grocery store
+where we resupplied on gummy candy and brown cheese.
+She was the most helpful ever.
+I was nervous that navigating international shipping and customs would be horribly expensive and complex.
+Just $50 and a few minutes later, a big box of our things was bound for the USA.
 
 ## Trampolines in Norway
 
@@ -59,7 +61,7 @@ H and I have gotten a lot of mileage out of trampoline jokes on this trip.
 ![a house in the country, with multiple outbuildings and a trampoline hidden in the background]({{ site.image-dir }}/{{ page.slug }}/trampoline-later.jpg)
 
 "Do you think people who live this far north buy their kids trampolines
-because they know they'll never have friends within 50 kilometers?"
+because they know they'll never find friends within 50 kilometers?"
 
 "Does Norway have a social program supporting the
 underprivileged children who don't have trampolines yet?"
