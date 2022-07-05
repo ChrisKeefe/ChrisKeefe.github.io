@@ -6,6 +6,7 @@ tags:
   - Norway
   - cycle touring
   - home stays
+  - rest days
 ---
 In this episode, we make new friends, sleep a lot, and do the laundry.
 
