@@ -10,7 +10,7 @@ Slow travel makes that possible. Life goes by fast enough without our help.
 
 My wife and I are spending summer of 2022 celebrating our marriage
 (and our grad-school graduations) with a belated honeymoon bicycle tour of Norway.
-We'll pedal over 3000KM from Kinnaroden south to Farestad.
+We'll pedal over 4000KM from Kirkenes south to Oslo.
 Or maybe we'll just stop at a good bakery along the way
 and eat kardemommeboller until we pop.
 There's no telling what the future holds.

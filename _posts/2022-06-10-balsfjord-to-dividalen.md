@@ -174,21 +174,21 @@ and everyone gets tired eventually.
 ![A ewe sleeps with her head on her lamb's haunches in a green field]({{ site.image-dir }}/{{ page.slug }}/sheep-sleep.jpg)
 <!-- This day had epic sheep. They slept adorably, leapt broad ditches, and some pretended to be pandas. -->
 
-<!-- TODO: LINK TO ALLEMANSRETTEN -->
-Though Norway's Allemansretten protects our ability to travel, forage, and sleep
-respectfully on private property, it has its limits.
+Norway's [Allemansretten](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/right-of-access/)
+protects our ability to travel, forage, and sleep respectfully on private property,
+but it has its limits.
 Sometimes camp sites are hard to find because the homes are too densely spaced
 to camp legally.
 Camping on cultivated land is (quite reasonably) not protected,
 but I'm not sure where the line is drawn there -
-is a hay-meadow cultivated? How about a wildflower meadow?
-What if it has a fence, but the gates have been removed?
+is a hay-meadow cultivated? How about wildflower pasture?
+What if it has a fence, but there are openings instead of gates?
 
 ![A wet road moves toward distant fjord and mountains with flat, brown birch-and-bog country on either side]({{ site.image-dir }}/{{ page.slug }}/boggy.jpg)
 
-Sometimes camping is hard because there are livestock on the land,
-and no one benefits from bothering the animals.
-Most often, though, camping is hard because the landscape here in Norway is challenging.
+Sometimes camping is hard because there are livestock on the land.
+No one benefits from bothering the animals, of course.
+Most often, though, camping is hard because the landscape here in Norway is difficult to sleep on.
 Most places are either steep or soggy.
 There is wetland everywhere,
 and we've slept on dry-ish flat spots in marshy areas
