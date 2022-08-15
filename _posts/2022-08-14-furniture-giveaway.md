@@ -13,8 +13,8 @@ everything unclaimed goes to a thrift store.
 
 ![]({{ site.image-dir }}/{{ page.slug }}/double-bed-and-mattress.jpg)
 
-Very decent double mattress intended for use without a box spring,
-with low IKEA-style kit bed frame.
+CLAIMED ~~Very decent double mattress intended for use without a box spring,
+with low IKEA-style kit bed frame.~~
 
 ![]({{ site.image-dir }}/{{ page.slug }}/kitchen-table-and-chairs.jpg)
 IKEA table, in good shape except for a 5mm wide split running the full length.
@@ -28,7 +28,7 @@ or your hand-tatted doily collection.
 It's a desk and a chair!
 
 ![]({{ site.image-dir }}/{{ page.slug }}/bookshelf-1.jpg)
-Nothing fancy, but sure holds a lot of books.
+CLAIMED ~~Nothing fancy, but sure holds a lot of books.~~
 
 ![]({{ site.image-dir }}/{{ page.slug }}/bookshelf-2.jpg)
 This guy has done yeoman's work holding up houseplants,
@@ -55,15 +55,14 @@ This, too, could use cleaning, but the dirt is less visible on a dark green back
 ![]({{ site.image-dir }}/{{ page.slug }}/ikea-chair.jpg)
 Love this guy, just not worth moving it.
 
-![]({{ site.image-dir }}/{{ page.slug }}/kitchen-rack.jpg)
-See previous comment. Decent rolling rack to store all of your kitchen stuff.
+CLAIMED ~~See previous comment. Decent rolling rack to store all of your kitchen stuff.
 Unless you have as much kitchen stuff as we do,
-in which case you'll need two more.
+in which case you'll need two more.~~
 
 ![]({{ site.image-dir }}/{{ page.slug }}/pallet-shelf.jpg)
-Unfinished shipping/display shelf from the dumpster behind Sprouts.
+CLAIMED ~~Unfinished shipping/display shelf from the dumpster behind Sprouts.
 Looks surprisingly decent if you put enough plants on it,
-but would do good work in a garage too.
+but would do good work in a garage too.~~
 
 ![]({{ site.image-dir }}/{{ page.slug }}/shoe-racks.jpg)
-Sooo many shoe racks. Please, take as many as you want.
+CLAIMED ~~Sooo many shoe racks. Please, take as many as you want.~~
