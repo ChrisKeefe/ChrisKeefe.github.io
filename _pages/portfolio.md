@@ -6,13 +6,16 @@ title: "Portfolio"
 ## Current Projects
 
 <!-- Figure out how to make these clickable images. Link to blog posts where necessary -->
+- Building Tier 1 policy and compliance tools for Amazon Pharmacy.
+- Raising an awesome kid.
+- Building an enormous set of bookshelves for our cat. Ask me about that if your cat's a reader.
+
+## Prior projects
+<!-- Figure out how to make these clickable images. -->
 - [Improving scientific reproducibility and research automation](github.com/chriskeefe/provenance_py)
   in microbiome science
 - Studying relationships between the gut microbiome and Alzheimer's Disease in mice
 - Learning Rust, web dev, and the Norwegian Language
-
-## Prior projects
-<!-- Figure out how to make these clickable images. -->
 - [q2-diversity-lib](https://github.com/qiime2/q2-diversity-lib)
 - [get-git](https://github.com/ChrisKeefe/getGitPresentation/)
 

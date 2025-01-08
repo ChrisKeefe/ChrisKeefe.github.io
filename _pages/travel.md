@@ -8,9 +8,10 @@ Slow travel makes that possible. Life goes by fast enough without our help.
 
 ## [Norway by bicycle](/tags/#norway)
 
-My wife and I are spending summer of 2022 celebrating our marriage
-(and our grad-school graduations) with a belated honeymoon bicycle tour of Norway.
-We'll pedal over 4000KM from Kirkenes south to Oslo.
-Or maybe we'll just stop at a good bakery along the way
-and eat kardemommeboller until we pop.
-There's no telling what the future holds.
+My wife and I spent the summer of 2022 celebrating our marriage
+(and grad-school graduations) with a belated honeymoon bike tour of Norway.
+We rode a winding 4500KM from Kirkenes south to Lindesnes.
+I haven't finished writing up the adventure yet,
+so for all you know, we stopped at the bakery in Å
+and ate kardemommeboller until we popped.
+There's really no telling.

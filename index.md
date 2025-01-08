@@ -31,20 +31,19 @@ feature_images:
     btn_label: "Learn more"      
 ---
 Welcome to my little workshop.
-Like a garage workbench, it's messy but it gets the job done.
+It's messy but I like it here.
 
-You'll find a bit of everything here.
-Beyond the obligatory developer profile,
-I use the blog for notes, tricks I pick up while building software,
+You'll find a bit of everything -
+the obligatory developer profile,
+a blog for notes, travel, tricks I pick up while building software,
 and anything else that sparkles:
 those perfect recipes you can build a meal or a whole life around,
 the little projects I knock together in my spare time,
 and photographs of the wild things I find in the woods.
-Call this what you will - a woodshed, a scrapbook, or a tinker's cart,
 I hope you find something you need here.
 
 {% include feature_row id="feature_images" %}
 
 > The things a crow puts in its nest,  
 > are always things it finds that shine best  
-> \- T. Waits
+> \- Tom Waits
