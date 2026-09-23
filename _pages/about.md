@@ -19,7 +19,7 @@ particularly by supporting positive outcomes for wilderness and climate,
 improving health access and outcomes, advancing human knowledge,
 and building tools that work for people first.
 
-If your organization fits *any* of those descriptions, please [get in touch](mailto:chriskeefe@nau.edu).
+If your organization fits *any* of those descriptions, please [get in touch](mailto:ckeefedev@gmail.com).
 I am open for work in North America or Europe and would love to talk with you.
 
 I believe in well-made things, hard work, good food, and human connection.
